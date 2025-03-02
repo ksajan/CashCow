@@ -4,7 +4,7 @@ import { ToolInvocation, convertToCoreMessages, streamText, Message } from "ai";
 import { convertToCoreTools, maxMessageContext, tools } from "./tools";
 import { StreamingTextResponse } from "ai";
 import { CoreTool } from "ai";
-import { OPENAI_API_KEY, GEMINI_API_KEY } from "../../../cred-config";
+import { OPENAI_API_KEY, GEMINI_API_KEY } from "../../cred-config";
 import OpenAI from "openai";
 import { createOpenAI } from "@ai-sdk/openai";
 import { z } from "zod";
