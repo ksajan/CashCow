@@ -1,7 +1,7 @@
 # CashCow: Smart Financial Management & Budgeting
 
 <div align="center">
-  <img src="https://via.placeholder.com/300?text=CashCow" alt="CashCow Logo" width="300" />
+  <img src="assets/CashCow.jpeg" alt="CashCow Logo" width="300" />
   <h3>Where Finance Meets Blockchain & AI</h3>
   <p>
     <a href="#features">Features</a> •
