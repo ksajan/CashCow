@@ -100,7 +100,7 @@ In today's rapidly evolving financial landscape, CashCow stands as a bridge betw
   </table>
 </div>
 
-## 📊 Enhanced User Experience Flow
+## 📊 User Experience Flow
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -482,9 +482,6 @@ CashCow/
 3. **AI-Powered Financial Advisor**: Contextual understanding of both traditional and crypto finances.
 4. **Gamified Financial Wellness**: Making budgeting and saving engaging through blockchain rewards.
 
-## 🤝 Contributing
-
-We welcome contributions to CashCow! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
 ## 📝 License
 
@@ -492,13 +489,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- [Team Member 1](https://github.com/teammember1) - Blockchain Developer
-- [Team Member 2](https://github.com/teammember2) - AI Engineer
-- [Team Member 3](https://github.com/teammember3) - Full Stack Developer
-
-## 📞 Support
-
-If you encounter any issues or have questions, please open an issue on GitHub or contact our support team at support@cashcow.app.
+- [Sajan](https://github.com/ksajan) 
+- [Rohith](https://github.com/rkat7) 
+- [Vignesh](https://github.com/trevahok) 
 
 ---
 
